@@ -1,10 +1,12 @@
-# Algoritmo  de CPF
+<h1><h1>
 
-## Conceito
+## Algoritmo  de CPF
+
+### Conceito
 Este é um simples algoritmo de validação de CPF que está funcional mas possuí
 diversos problemas em sua implementação.
 
-## Regras
+### Regras
 Você recebeu um código que precisa ser refatorado, mas para ter segurança que 
 nenhuma implementação irá deixar de funcionar corretamente durante a refatoração,
 você deverá utilizar a testes unitários para garantir a qualidade do código, 
