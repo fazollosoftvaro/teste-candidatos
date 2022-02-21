@@ -1,6 +1,6 @@
 <h1 align="center">Softvaro<h1>
 
-## Algoritmo  de CPF
+Algoritmo  de CPF
 
 ### Conceito
 Este é um simples algoritmo de validação de CPF que está funcional mas possuí
