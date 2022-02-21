@@ -10,6 +10,6 @@ nenhuma implementação irá deixar de funcionar corretamente durante a refatora
 você deverá utilizar a testes unitários para garantir a qualidade do código, 
 para isso você deve utilizar as ferramentas (Jest) e (Typescript).
 
-[] - Você deve listar os code smells.
-[] - Você deve testar o código.
-[] - Você deve refatorar o código mantendo o maxímo de cobertura possivel.
+* Você deve listar os code smells.
+* Você deve testar o código.
+* Você deve refatorar o código mantendo o maxímo de cobertura possivel.
