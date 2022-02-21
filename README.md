@@ -1,4 +1,4 @@
-<h1 align="center">Softvaro<h1>
+# Softvaro
 
 ### Conceito
 Este é um simples algoritmo de validação de CPF que está funcional mas possuí
