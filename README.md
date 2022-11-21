@@ -20,7 +20,7 @@ para isso você deve utilizar as ferramentas (Jest) e (Typescript).
 * Edite o Readme com as instruções de como rodar o projeto
 
 
-Ao finalizar o projeto, envie o repositório para frederico.reis@softvaro.com.br
+Ao finalizar o projeto, envie o repositório para helio.softvaro@softvaro.com.br
 Lembre de configurar o repositório para que fique público.
 
 Boa sorte. 
